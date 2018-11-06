@@ -55,7 +55,7 @@
                 <a class="dropdown-item" href="#">laravel News</a>
                 <a class="dropdown-item" href="#">laraChat</a>
               </div>
-        <a class="p-2 text-dark" href="#">Contact</a>       
+        <a class="p-2 text-dark" href="{{ route('contact') }}">Contact</a>       
       </nav>
       <a class="btn btn-outline-primary" href="#">Login</a>
       <a class="btn btn-outline-primary" href="#">Register</a>
