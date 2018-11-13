@@ -163,7 +163,7 @@ return [
         /*
          * Package Service Providers...
          */
-
+        MercurySeries\Flashy\FlashyServiceProvider::class,    
         /*
          * Application Service Providers...
          */
